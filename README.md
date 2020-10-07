@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning ...
 
 Web frontend와 관련된 기술들을 공부하고 있습니다. 특히, React.js, Node.js를 즐겁게 배우는 중입니다. 별 쓸모는 없지만 욕심이 나는 것도 공부하고 있습니다. React Native와 Ren'py를 간식 먹듯이 공부합니다.
-- 👯 I'm currently doing two project 
+- 👯 I'm currently participating in two project 
 
 'SUNDA' - 누구나 공개된 음악을 큐레이팅하는 웹 커뮤니티 서비스 ( React.js, Node.js )
 
