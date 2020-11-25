@@ -10,11 +10,11 @@ Web frontend와 관련된 기술들을 공부하고 있습니다. 특히, React.
 
 - 👯 I'm currently participating in 3 projects
 
-'SUNDA' - 누구나 공개된 음악을 큐레이팅하는 웹 커뮤니티 서비스 ( React.js, Node.js ) : 모든 작업 혼자 진행
+'Jindo' - Oauth, mysql, sequelize 실습을 위한 간단한 TODO 웹프로그램
 
-'Unnamed Visual Novel' - 곧 입대할 친구의 꿈 이뤄주기 ( Ren'py ) : 프로젝트 매니저로 참여
+'SUNDA' - 누구나 공개된 음악을 큐레이팅하는 웹 커뮤니티 서비스 ( React.js, Node.js )
 
-'지하철도999' - 지하철에서 비둘기로 살아남기 : 웹서비스 개발자로 참여
+
 
 <!--
 **wonjinYi/wonjinYi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
