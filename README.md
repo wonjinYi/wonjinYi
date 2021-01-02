@@ -1,7 +1,9 @@
 ### Wonjin Yi
 - 🔭 I’m currently working on ...
 
-새로운 눈으로 세상을 바라볼 수 있도록하는 새로운 기준을 세우고 있습니다. 데이터라벨링 회사에서 검수자로 먹고살고있습니다. json으로 추출되는 bbox, rbox, closed polygon, poliline, keypoint 타입의 이미지/영상 Annotation 및 검증, 그리고 영상 컨텐츠 메타 데이터 태깅 등을 주로 경험했습니다.
+데이터라벨링 회사에서 검수자로 먹고살며, 세상을 관찰하는 새로운 기준을 세우고 있습니다.  json으로 추출되는 bbox, rbox, closed polygon, polyline, keypoint 타입의 이미지/영상 Annotation 및 검증, 그리고 영상 컨텐츠 메타 데이터 태깅 등을 주로 경험했습니다.
+
+Superb AI Suite, SI LabelEarth, Aimmo, CrowdWorks, DataGoblins 사용 경험이 있습니다.
 
 
 - 🌱 I’m currently learning ...
