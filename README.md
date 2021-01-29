@@ -34,7 +34,6 @@ Web frontend와 관련된 기술들을 공부하고 있습니다. 특히, React.
   * 세종코딩챌린지 2위
   * [귀요미 슬리프](https://ogqmarket.naver.com/artworks/sticker/detail?artworkId=56afe12d9e18d) 이모티콘 출시
   * 애원시니어대학교 정보화수업 조교 자원봉사
-  * 청운지역아동복지센터 급식지도 자원봉사
 * 2016
   * 인천시교육청 과학탐구토론대회 은상 (휴대폰의 친환경적 제조와 폐기 및 스마트폰 어플리케이션을 활용한 폐휴대폰의 수집방안)
   * 일본어 히라가나/가타카나 암기앱 [가나 랜덤뽑기](https://play.google.com/store/apps/details?id=air.ganaRandomBbopkki&) 개발
