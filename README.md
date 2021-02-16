@@ -13,7 +13,7 @@ Superb AI Suite에 가장 익숙하며, Aimmo, Crowdworks, SI LabelEarth, 포토
 
 ### 🤔 공부
 
-Web frontend와 관련된 기술들을 공부하고 있습니다. 특히, React.js, Node.js를 즐겁게 배우는 중입니다. 인공지능에도 손을 대보고 싶어하고 있습니다.
+Web frontend와 관련된 기술들을 공부하고 있습니다. 특히, React.js, Node.js를 즐겁게 배우는 중입니다.
 
 ### 👯 진행중
 * **H.I. Gorani**(인간지능 고라니) - 웹 기반 데이터라벨링 툴
