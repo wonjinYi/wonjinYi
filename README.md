@@ -16,7 +16,7 @@ Superb AI Suite에 가장 익숙하며, Aimmo, Crowdworks, SI LabelEarth, 포토
 Web frontend와 관련된 기술들을 공부하고 있습니다. 특히, React.js, Node.js를 즐겁게 배우는 중입니다.
 
 ### 👯 진행중
-* **H.I. Gorani**(인간지능 고라니) - 웹 기반 데이터라벨링 툴
+* **인간지능 고라니** - 웹 기반 데이터라벨링 툴
 * **SUNDA** - 누구나 공개된 음악을 큐레이팅하는 웹 서비스 ( 크롬 익스텐션 및 메일링 서비스로 제공예정 )
 
 
