@@ -1,5 +1,10 @@
 # Wonjin Yi
 
+### 외부 페이지
+* 블로그 : https://velog.io/@yiwonjin
+* 포트폴리오 : https://portfolio.wonj.in/
+* solved.ac 프로필 : https://solved.ac/profile/beervalidator
+
 ### 🌱 학업
 * (2022) 세종대학교 컴퓨터공학과 2학년 재입학 (방송통신대학교 미등록)
 * (2021) 방송통신대학교 컴퓨터과학과 2학년 편입
