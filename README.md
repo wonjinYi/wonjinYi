@@ -2,12 +2,12 @@
 
 ### 외부 페이지
 * 블로그 : https://velog.io/@yiwonjin
-* 포트폴리오 : https://portfolio.wonj.in/
+* ~~포트폴리오 : https://portfolio.wonj.in/~~
+* 링크드인 : https://www.linkedin.com/in/wjlee17
 * solved.ac 프로필 : https://solved.ac/profile/beervalidator
 
 ### 🌱 학업
-* (2022) 세종대학교 컴퓨터공학과 2학년 재입학 (방송통신대학교 미등록)
-* (2021) 방송통신대학교 컴퓨터과학과 2학년 편입
+* (2022) 세종대학교 컴퓨터공학과 2학년 재입학
 * (2017) 세종대학교 컴퓨터공학과 1학년 수료
 
 ### 🔭 먹고살기
