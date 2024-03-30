@@ -1,4 +1,4 @@
-# Wonjin Yi
+# Wonjin Lee
 
 ### 외부 페이지
 * 블로그 : https://velog.io/@yiwonjin
