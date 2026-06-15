@@ -4,9 +4,7 @@
 
 ### 외부 페이지
 * 블로그 : https://velog.io/@yiwonjin
-* 자기소개서/포트폴리오 : https://wonj.in/cv
 * 링크드인 : https://www.linkedin.com/in/wjlee17
-* solved.ac 프로필 : https://solved.ac/profile/beervalidator
 
 ### 🌱 학업
 
@@ -14,6 +12,10 @@
 * (2024) 구글 머신러닝 부트캠프 2기 수료
 
 ### 🔭 먹고살기
+
+기업 AI전환 교육 현장에 보조강사로 참여합니다.
+
+* 2026/06-(현재) 팀스파르타 기술튜터 (프리랜서)
 
 컨텐츠 개발 스타트업에서 기술을 담당합니다.
 
